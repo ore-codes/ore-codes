@@ -1,5 +1,3 @@
-# Hi 👋 My name is Ore Adeleye
-
 ## Skills
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
